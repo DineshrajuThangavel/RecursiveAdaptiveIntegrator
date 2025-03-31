@@ -14,7 +14,7 @@ This C++ project implements numerical integration using the trapezoidal rule wit
 - `main.cpp`: Entry point and user input handling
 - `integral.cpp`: Core divide-and-conquer integration logic
 - `cases.cpp`: Function definitions for integrands
-- `T5-Divide-and-Conquer-Integral.pdf`: Project documentation/report
+- `Task_Description.pdf`: Project documentation/report
 
 ## 📚 Technologies
 - C++
