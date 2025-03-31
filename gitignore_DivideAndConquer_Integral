@@ -1,0 +1,13 @@
+# C++ object and binary files
+*.o
+*.out
+*.exe
+
+# Temporary or backup files
+*~
+*.bak
+
+# Editor/project files
+.vscode/
+.idea/
+*.cbp

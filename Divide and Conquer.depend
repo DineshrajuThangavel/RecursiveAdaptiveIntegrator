@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1701727566 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\cases.cpp
+	<iostream>
+	<cmath>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
+1701713037 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\integral.cpp
+	<iostream>
+	<cmath>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
+1701703527 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\integral.hpp
+
+1701185444 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\cases.hpp
+
+1701727914 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\intro.hpp
+
+1701727641 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\intro.cpp
+	<iostream>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
+1701728747 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\main.cpp
+	<iostream>
+	<cmath>
+
+1701729133 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\integral.cpp
+	<iostream>
+	<cmath>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
+1701703527 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\integral.hpp
+
+1701729256 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\cases.hpp
+
+1701727914 d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\intro.hpp
+
+1701729532 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\intro.cpp
+	<iostream>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
+1701729133 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\main.cpp
+	<iostream>
+	<cmath>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
+1701771436 source:d:\cms_masters_2023\semester_1\introduction to scientific programming\day_6 (21nov2023)\divide and conquer\divide and conquer\cases.cpp
+	<iostream>
+	<cmath>
+	"integral.hpp"
+	"cases.hpp"
+	"intro.hpp"
+
